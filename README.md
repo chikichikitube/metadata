@@ -2,6 +2,10 @@
 
 Japanese metadata for various shows from CCT, ongoing shows will be updated via scraping various sites and video releases
 
+## Data
+- `segment_ja.csv`: CSV version of database
+- 'segment_json.csv`: JSON version of database
+
 ## Sources
 
 ### Gaki no Tsukai
