@@ -1,10 +1,18 @@
 # metadata
 
-Japanese metadata for various shows from CCT, ongoing shows will be updated via scraping various sites and video releases
+Metadata for various shows from CCT, ongoing shows will be updated via scraping various sites and video releases
 
 ## Data
-- `segment_ja.csv`: CSV version of database
-- 'segment_json.csv`: JSON version of database
+
+### `segment_ja.csv` and `segment_ja.json`
+Japanese language metadata at the episode or segment level:
+- show: string of showname (matching CCT channel name)
+- date: air-date or release date
+- episode: episode number (or 'SP' if unnumbered)
+- segment: segment order within episode if available
+- name_ja: Japanese episode name
+- description_ja: Japanese description of episode
+- metadata: Additional data specific to the show (i.e. Knight Scoop detective names)
 
 ## Sources
 
