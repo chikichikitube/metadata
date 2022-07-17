@@ -18,8 +18,8 @@ Japanese language metadata at the episode or segment level:
 
 ### Gaki no Tsukai
 - Official NTV Website: https://www.ntv.co.jp/gaki/r_backnumber
-- Ghiaccio Fanmade database (unmaintained): ghia.chu.jp/wiki/index.php https://web.archive.org/web/20220216073641/ghia.chu.jp/wiki/index.php
-- Gaki no Tsukai Forum: gaki-no-tsukai.com
+- Ghiaccio Fanmade database (unmaintained): http://ghia.chu.jp/wiki/index.php https://web.archive.org/web/20220216073641/ghia.chu.jp/wiki/index.php
+- Gaki no Tsukai Forum: https://gaki-no-tsukai.com
 
 ### Knight Scoop
 - Braxen Fanmade database: https://knightscoop.yabai.moe/
