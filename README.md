@@ -6,6 +6,7 @@ Metadata for various shows from CCT, ongoing shows will be updated via scraping 
 
 ### `segment_ja.csv` and `segment_ja.json`
 Japanese language metadata at the episode or segment level:
+- cctid: tentative universal id
 - show: string of showname (matching CCT channel name)
 - date: air-date or release date
 - episode: episode number (or 'SP' if unnumbered)
