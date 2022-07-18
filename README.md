@@ -2,6 +2,8 @@
 
 Metadata for various shows from CCT, ongoing shows will be updated via scraping various sites and video releases
 
+If you've got any metadata please create a [new issue](https://github.com/chikichikitube/metadata/issues/new/choose) and send a link to the data, then it will be incorporated into the data building pipeline
+
 ## Data
 
 ### `segment_ja.csv` and `segment_ja.json`
