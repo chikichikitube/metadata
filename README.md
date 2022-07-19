@@ -30,6 +30,12 @@ Japanese language metadata at the episode or segment level:
 ### Gottsu A Kanji
 - huh009 fanmade database: https://docs.google.com/spreadsheets/d/1iagP08wj7WMH8WCAks-NezdcBfMmJCC0EevcH_rZm5M/edit?usp=sharing
 
+### Documental
+- Amazon Prime Video JP Scrape
+
+### Freeze
+- Amazon Prime Video JP Scrape
+
 ### MHK
 - Official DVD Information
 
