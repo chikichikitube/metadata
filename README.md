@@ -16,6 +16,8 @@ Japanese language metadata at the episode or segment level:
 - name_ja: Japanese episode name
 - description_ja: Japanese description of episode
 - metadata: Additional data specific to the show (i.e. Knight Scoop detective names)
+- subbed: Whether the video has been subbed (i.e. it is in The Silent Library)
+- ccturl: url to link to Chiki Chiki Tube video web page
 
 ## Sources
 
