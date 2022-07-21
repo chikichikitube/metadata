@@ -6,7 +6,7 @@ If you've got any metadata please create a [new issue](https://github.com/chikic
 
 ## Data
 
-### `segment_ja.csv` and `segment_ja.json`
+### `metadata_cct.csv` and `metadata_cct.json`
 Japanese language metadata at the episode or segment level:
 - cctid: tentative universal id
 - show: string of showname (matching CCT channel name)
