@@ -8,16 +8,19 @@ If you've got any metadata please create a [new issue](https://github.com/chikic
 
 ### `metadata_cct.csv` and `metadata_cct.json`
 Japanese language metadata at the episode or segment level:
-- cctid: tentative universal id
-- show: string of showname (matching CCT channel name)
-- date: air-date or release date
-- episode: episode number (or 'SP' if unnumbered)
-- segment: segment order within episode if available
-- name_ja: Japanese episode name
-- description_ja: Japanese description of episode
-- metadata: Additional data specific to the show (i.e. Knight Scoop detective names)
-- subbed: Whether the video has been subbed (i.e. it is in The Silent Library)
-- ccturl: url to link to Chiki Chiki Tube video web page
+
+| field | description |
+| ----- | ----------- |
+| cctid | tentative universal id |
+| show | string of showname (matching CCT channel name) |
+| date | air-date or release date |
+| episode | episode number (or 'SP' if unnumbered) |
+| segment | segment order within episode if available |
+| name_ja |  Japanese episode name |
+| description_ja | Japanese description of episode |
+| metadata | Additional data specific to the show (i.e. Knight Scoop detective names) |
+| subbed | Whether the video has been subbed (i.e. it is in The Silent Library) |
+| ccturl | url to link to Chiki Chiki Tube video web page 
 
 ## Sources
 
