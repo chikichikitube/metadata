@@ -12,7 +12,9 @@ Japanese language metadata at the episode or segment level:
 | field | description |
 | ----- | ----------- |
 | cct_id | tentative universal id |
-| show | string of showname (matching CCT channel name) |
+| show_id | string of showname (matching CCT channel name) |
+| show | string of showname in English |
+| show_ja | string of showname in Japanese |
 | date | air-date or release date |
 | episode | episode number (or 'SP' if unnumbered) |
 | segment | segment order within episode if available |
@@ -20,7 +22,6 @@ Japanese language metadata at the episode or segment level:
 | name_en |  English episode name (some are low quality translations) |
 | description_ja | Japanese description of episode |
 | metadata | Additional data specific to the show (i.e. Knight Scoop detective names) |
-| subbed | Whether the video has been subbed (i.e. it is in The Silent Library) |
 | cct_url | url to link to Chiki Chiki Tube video web page |
 
 ## Sources
